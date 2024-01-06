@@ -1,0 +1,338 @@
+@media (min-width:1400px){
+    .mainArticle,.blogMainArticle{
+        max-width: 100%;
+        width: auto;        
+    }
+    .relatedPostsHome{
+        max-width: 100%;
+        width: auto;
+    }
+    .todaysPosts{
+        max-width: 100%;
+        width: auto;
+    }
+    .footer{
+        max-width: 100%;
+        width: auto;
+        gap: 400px;
+    }
+    
+}
+
+@media (min-width:1200px) and (max-width:1400px) {
+    .mainArticle,.blogMainArticle{  
+        max-width: 100%;      
+        width: auto;
+        padding: 0px;
+        padding-top: 160px;
+        padding-left: 220px;
+        padding-right: 220px;  
+
+    }  
+    .blogMainArticle{
+        padding-top: 140px;
+    }
+    .relatedPostsHome{
+        max-width: 100%;
+        width: auto;
+    }  
+    .todaysPosts{
+        max-width: 100%;
+        width: auto;
+    }
+    .footer{
+        max-width: 100%;
+        width: auto;
+        gap: 300px;
+    }
+}
+
+@media (min-width:992px) and (max-width:1200px) {
+    .mainArticle,.blogMainArticle{  
+        max-width: 100%;      
+        width: auto;
+        padding: 0px;
+        padding-top: 160px;
+        padding-left: 220px;
+        padding-right: 220px;  
+
+    }  
+    .blogMainArticle{
+        padding-top: 140px;
+    }
+    .relatedPostsHome{
+        max-width: 100%;
+        width: auto;
+    }  
+    .todaysPosts{
+        max-width: 100%;
+        width: auto;        
+    }
+    .footer{
+        max-width: 100%;
+        width: auto;      
+        gap: 200px;  
+    }
+    .container1{
+        padding-right: 60px;
+    }
+    .container2{
+        padding-left: 60px;
+    }
+    .articleTitle{
+        padding-right: 100px;
+    }
+    .articleDescription{
+        padding-right: 100px;
+    }
+    .relatedPostsArticleTitle{
+        padding-right: 100px;
+    }
+    .todaysPostsArticleTitle{
+        padding-right: 100px;
+    }
+}
+
+@media (max-width:1072px) {
+    .shareBtn{
+        top: 308px;
+    }        
+}
+
+@media (min-width:768px) and (max-width:992px) {
+    .breakline1{
+        padding: 0px;
+        margin-left: 100px;                
+        margin-right: 100px;
+    }
+    .mainArticle,.blogMainArticle{  
+        max-width: 100%;      
+        width: auto;
+        padding: 0px;
+        padding-top: 160px;
+        padding-left: 100px;
+        padding-right: 100px;  
+
+    }  
+    .blogMainArticle{
+        padding-top: 140px;
+    }
+    .relatedPostsHome{
+        max-width: 100%;
+        width: auto;
+        padding-left: 100px;
+        padding-right: 100px; 
+    }  
+    .todaysPosts{
+        max-width: 100%;
+        width: auto;
+        padding-left: 100px;
+        padding-right: 100px; 
+    }
+    .footer{
+        max-width: 100%;
+        width: auto;   
+        gap: 150px;
+        padding-left: 100px;
+        padding-right: 100px;      
+    }
+    .container1{
+        padding-right: 60px;
+    }
+    .container2{
+        padding-left: 60px;
+    }
+    .articleTitle{
+        padding-right: 100px;
+    }
+    .articleDescription{
+        padding-right: 100px;
+    }
+    .relatedPostsCol1,.todaysPostsCol1,.blogRelatedPostsCol1{
+        max-width: 100%;
+        width: auto;
+        padding-right: 0px;
+    }
+    .relatedPostsCol2,.todaysPostsCol2,.blogRelatedPostsCol2{
+        max-width: 100%;
+        width: auto;
+        padding-left: 0px;
+    }
+    .relatedPostsArticleTitle{
+        padding-right: 100px;
+    }
+    .todaysPostsArticleTitle{
+        padding-right: 100px;
+    }
+    .relatedPostsImg,.todaysPostsImg{
+        height: 450px;
+    }
+}
+
+
+@media (min-width:576px) and (max-width:767px) {
+    .breakline1{
+        padding: 0px;
+        margin-left: 100px;                
+        margin-right: 100px;
+    }
+    .mainArticle,.blogMainArticle{  
+        max-width: 100%;      
+        width: auto;
+        padding: 0px;
+        padding-top: 160px;
+        padding-left: 100px;
+        padding-right: 100px;  
+
+    }  
+    .shareBtn{
+        left: 350px;        
+        top: 330px;
+    }
+    .blogMainArticle{
+        padding-top: 140px;
+    }
+    .relatedPostsHome{
+        max-width: 100%;
+        width: auto;
+        padding-left: 100px;
+        padding-right: 100px; 
+    }  
+    .todaysPosts{
+        max-width: 100%;
+        width: auto;
+        padding-left: 100px;
+        padding-right: 100px; 
+    }
+    .footer{
+        max-width: 100%;
+        width: auto;   
+        padding-left: 100px;
+        padding-right: 100px;
+        gap: 20px;      
+    }
+    .container1{
+        padding-right: 30px;
+        width: 200px;
+    }
+    .container2{
+        padding-left: 30px;
+    }
+    .articleTitle{
+        padding-right: 100px;
+    }
+    .articleDescription{
+        padding-right: 100px;
+    }
+    .relatedPostsCol1,.todaysPostsCol1,.blogRelatedPostsCol1{
+        max-width: 100%;
+        width: auto;
+        padding-right: 0px;
+    }
+    .relatedPostsCol2,.todaysPostsCol2,.blogRelatedPostsCol2{
+        max-width: 100%;
+        width: auto;
+        padding-left: 0px;
+    }
+    .relatedPostsArticleTitle{
+        padding-right: 100px;
+    }
+    .todaysPostsArticleTitle{
+        padding-right: 100px;
+    }
+    .relatedPostsImg,.todaysPostsImg,.blogRelatedPostsImg{
+        max-width: 100%;
+        width: auto;
+        height: 450px;
+    }
+}
+
+
+@media (min-width:370px) and (max-width:576px){
+    .mainArticle,.blogMainArticle{  
+        max-width: 100%;      
+        width: auto;
+        padding: 0px;
+        padding-top: 100px;
+        padding-left: 20px;
+        padding-right: 20px;  
+
+    }  
+    .blogMainArticle{
+        padding-top: 140px;
+    }
+    .relatedPostsHome{
+        max-width: 100%;
+        width: auto;
+        padding-left: 20px;
+        padding-right: 20px; 
+    }  
+    .todaysPosts{
+        max-width: 100%;
+        width: auto;
+        padding-left: 20px;
+        padding-right: 20px; 
+    }
+    .footer{
+        position: absolute;
+        display: block;
+        gap: 10px;        
+        max-width: 100%;
+        width: auto;   
+        padding-left: 20px;
+        padding-right: 20px;      
+    }
+    .container1{
+        padding-right: 0px;
+        margin-left: 4px;
+    }
+    .container2{
+        padding-left: 0px;        
+    }
+    .articleTitle{
+        padding-right: 0px;
+    }
+    .articleDescription{
+        padding-right: 0px;
+    }
+    .relatedPostsCol1,.todaysPostsCol1,.blogRelatedPostsCol1{
+        max-width: 100%;
+        width: auto;
+        padding-right: 0px;
+    }
+    .relatedPostsCol2,.todaysPostsCol2,.blogRelatedPostsCol2{
+        max-width: 100%;
+        width: auto;
+        padding-left: 0px;
+    }
+    .relatedPostsArticleTitle{
+        padding-right: 0px;
+    }
+    .todaysPostsArticleTitle{
+        padding-right: 0px;
+    }
+    .mainImg,.relatedPostsImg,.todaysPostsImg,.blogRelatedPostsImg{
+        max-width: 100%;
+        width: auto;
+        height: 213px;
+    }   
+    .breakline1{
+        max-width: 100%;
+        width: auto;
+        padding: 0px;
+        margin-left: 20px;                
+        margin-right: 20px;
+    }
+    .lightDark{  
+        position: relative;
+        top: 350px;
+        left: 10px;
+    }
+    .quickLinks{
+        margin-bottom: 20px;
+    }
+    .shareBtn{
+        left: 280px;
+        top: 295px;
+    }
+}
